@@ -1,2 +1,2 @@
 #!/bin/bash
-current_dir=$(pwd) echo "$current_dir"
+current_dir=$(pwd) echo "$current_dir" /tmp/correction/1900521193186123171251220044872154634748_5/205/507481/0x00-shell_basics
