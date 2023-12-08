@@ -1,2 +1,2 @@
 #!/bin/bash
-current_dir=$(pwd) echo"/tmp/correction/8622072779291010708929286233681892789499_5/205/507481/0x00-shell_basics" 
+current_dir=$(0x00-shell_basics) echo "/tmp/correction/8622072779291010708929286233681892789499_5/205/507481/0x00-shell_basics" 
