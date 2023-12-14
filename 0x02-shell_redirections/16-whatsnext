@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A "root" /etc/passwd
+grep root /etc/passwd | sed -n '1p;3p;4p;5p'
